@@ -11,7 +11,7 @@ About me
 ========
 I am an energy and climate policy analyst currently working at [Climate Analytics](https://www.climateanalytics.org). My main research interests include but not limited to data science, energy system modelling, and integration of renewable energy. 
 
-My hobbies include watching football (I am a big fan of FC BARCELONA), visiting museums, travelling, etc.
+My hobbies include watching football (I am a big fan of FC BARCELONA), visiting museums, travelling (I have visited about 20 countries till date), etc.
 
 A data-driven personal website
 ======
