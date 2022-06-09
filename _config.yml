@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hbshrestha/hbshrestha.github.io"
-teaser                   : "imagaes/profile.png"
+teaser                   : #"profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Himalaya Bir Shrestha"
-  avatar           : "profile.png"
+  avatar           : "imagaes/profile.png"
   bio              : "Energy Professional"
   location         : "Berlin, Germany"
   employer         :
-  Medium           : "https://medium.com/@himalaya.birshrestha"
+  medium           : "https://medium.com/@himalaya.birshrestha"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Himalaya-Shrestha"
