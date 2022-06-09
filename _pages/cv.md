@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, JNTU Anantapur, India
+* M.S. in Renewable Energy Management, Cologne University of Applied Sciences, Germany
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2022: Energy and Climate Policy Analyst
+  * Climate Analytics, Berlin, Germany
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Intern in Energy and Climate Policy Analysis
+  * NewClimate Institute, Cologne, Germany
+
+* 2014-2016: Renewable Energy Engineer
+  * Nepal Energy Development Company Pvt. Ltd., Kathmandu, Nepal
   
 Skills
 ======
