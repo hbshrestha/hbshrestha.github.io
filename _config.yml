@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://hbshrestha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "hbshrestha/hbshrestha.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "academicpages.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "hbshrestha/hbshrestha.github.io"
 teaser                   : #"profile.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Himalaya Bir Shrestha"
-  avatar           : "/images/hbs.JPG"
+  avatar           : "/images/Shrestha_Himalaya_Image-min.JPG"
   bio              : "Energy Professional"
   location         : "Berlin, Germany"
   employer         :
