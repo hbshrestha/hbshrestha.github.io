@@ -7,7 +7,7 @@ redirect_from:
   - /simple-contact-form.html
 ---
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xoqrbljr" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xoqrbljr" method="POST">
   <h3>Get in touch</h3>
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
