@@ -13,8 +13,9 @@ I was born in the southern plains of Nepal. Having experienced acute power cuts 
 
 After completing my four years Bachelors degree in India and working in biogas and solar sector of Nepal for a couple of years, I received the prestigious DAAD scholarship to pursue Masters in Renewable Energy Management from Cologne University of Applied Sciences.
 
-| ![Fishtail mountain in Nepal.](/images/fishtail.png) |
-|Image by [Raimond Klavins](https://unsplash.com/photos/L6jxljMeUoo) on [Unsplash](https://unsplash.com)|
+| !(/images/fishtail.png) |
+|:--:|
+|Image of Fishtain Mountain in Nepal by [Raimond Klavins](https://unsplash.com/@raimondklavins) on [Unsplash](https://unsplash.com)|
 
 Work
 ====
@@ -23,6 +24,10 @@ Currently working as an energy and climate policy analyst at [Climate Analytics]
 Research Interests
 ======
 I love writing at the intersection of data science with energy, climate change and sustainability. I try to be as simple as possible with my words. My main research interests include but not limited to data science, energy system modelling, sector coupling, and integration of renewable energy in the power systems. 
+
+| !(/images/wind_turbines.png) |
+|:--:|
+| Image of wind turbines by [Jason Blackeye](https://unsplash.com/@jeisblack) on [Unsplash](https://unsplash.com)|
 
 Hobbies
 ======
